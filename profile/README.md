@@ -1,4 +1,4 @@
-![](/assets/temp_logo.png)
+![](/assets/logo.png)
 
 ## ArangoDB for Machine Learning
 
