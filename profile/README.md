@@ -53,7 +53,7 @@
  <tr>
     <td>
         <div>
-          The <a href="https://github.com/arangoml/embeddings-service">Embeddings Service</a> is a Foxx tool that enables the generation of embeddings.
+          The <a href="https://github.com/arangoml/embeddings-service">Embeddings Service</a> is a <a href="https://www.arangodb.com/docs/stable/foxx.html">Foxx</a> tool that enables the generation of embeddings.
           <br></br>
           <p align="center"><img height="190" src="https://www.arangodb.com/wp-content/uploads/2016/12/ArangoDB-Foxx-logo.png" /></p>
         </div>
