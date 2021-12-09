@@ -62,12 +62,14 @@
         <div>
           <a href="https://github.com/arangoml/embeddings-compute">NVidia Triton</a> is the product of ArangoDB partnership with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient.
           <br></br>
-          <p align="center"><img height="150" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
+          <p align="center"><img height="165" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
         </div>
     </td>
     <td>
         <div>
           ArangoDB has built-in Pregel support that allows for analytical processing directly on graphs stored in ArangoDB. Get started <a href="https://www.arangodb.com/docs/stable/graphs-pregel.html">here</a>.
+         <br></br>
+         <p align="center"><img height="170" src="../assets/pregel.png" /></p>
         </div>
      </td>
  </tr>
