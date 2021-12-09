@@ -67,7 +67,7 @@
     </td>
     <td>
         <div>
-          ArangoDB has built-in Pregel support that allows for analytical processing directly on graphs stored in ArangoDB. Get started <a href="https://www.arangodb.com/docs/stable/graphs-pregel.html">here</a>.
+          ArangoDB has built-in <a href="https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/">Pregel</a> support that allows for analytical processing directly on graphs stored in ArangoDB. Get started <a href="https://www.arangodb.com/docs/stable/graphs-pregel.html">here</a>.
          <br></br>
          <p align="center"><img height="170" src="../assets/pregel.png" /></p>
         </div>
