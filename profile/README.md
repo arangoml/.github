@@ -4,15 +4,14 @@
 
 [By 2025, graph technologies will be used in most of data and analytics innovations.](https://www.techrepublic.com/article/gartner-top-10-data-and-analytics-technology-trends-for-2021/)
 
-<img height="210" align="right" src="/assets/arangoml.jpeg" />
-
+<!-- <img height="210" align="right" src="/assets/arangoml.jpeg" />
+ -->
 ### ArangoDB as the foundation for Graph ML
 * **Scalable**: Designed from ground up to scale Enterprise use cases 
 * **Simple** Ingestion: Easy integration in existing data infrastructure + connectors to all leading data processing and data ecosystems
 * **Open Source**: Extensibility, Community, especially large community maintained library
 * **NLP Support**: Built-In Text Processing, Search, and Similarity Ranking
-<br></br>
-<br></br>
+
 ---
 <table>
  <tr>
