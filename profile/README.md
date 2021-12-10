@@ -60,7 +60,7 @@
     </td>
     <td>
         <div>
-          <a href="https://github.com/arangoml/embeddings-compute">NVidia Triton</a> is the product of ArangoDB partnership with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient.
+          ArangoDB partnered with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient. Get started <a href="https://github.com/arangoml/embeddings-compute">here</a>.
           <br></br>
           <p align="center"><img height="165" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
         </div>
