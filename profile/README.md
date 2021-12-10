@@ -14,7 +14,6 @@
 * **Open Source**: Extensibility, Community, especially large community maintained library
 * **NLP Support**: Built-In Text Processing, Search, and Similarity Ranking
 <br></br>
-<br></br>
 ---
 <table>
  <tr>
