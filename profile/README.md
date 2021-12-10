@@ -17,8 +17,8 @@
 ---
 <table>
  <tr>
-    <td width="50%"><b style="font-size:20px">ArangoPipe</b></td>
-    <td width="50%"><b style="font-size:20px">NetworkX Support</b></td>
+    <td align="center" width="50%"><b style="font-size:20px">ArangoPipe</b></td>
+    <td align="center" width="50%"><b style="font-size:20px">NetworkX Support</b></td>
  </tr>
  <tr>
     <td>
@@ -45,9 +45,9 @@
 
 <table>
  <tr>
-    <td width="33%"><b style="font-size:20px">Graph Embeddings Service</b></td>
-    <td width="33%"><b style="font-size:20px">NVidia Triton Inference Server Support</b></td>
-    <td width="33%"><b style="font-size:20px">Pregel</b></td>
+    <td align="center" width="33%"><b style="font-size:20px">Graph Embeddings Service</b></td>
+    <td align="center" width="33%"><b style="font-size:20px">NVidia Triton Inference Server Support</b></td>
+    <td align="center" width="33%"><b style="font-size:20px">Pregel</b></td>
  </tr>
  <tr>
     <td>
