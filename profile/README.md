@@ -26,7 +26,7 @@
         <div>
           <a href="https://github.com/arangoml/arangopipe">ArangoML Pipeline</a> is a common and extensible Metadata Layer for Machine Learning Pipelines which allows Data Scientists and DataOps to manage all information related to their ML pipeline in one place. Get started in <a href="https://colab.research.google.com/github/arangoml/arangopipe/blob/master/examples/Arangopipe_Feature_Examples.ipynb">Colab</a>.
           <br></br>
-          <p align="center"><img width="300" src="./../assets/arangopipe.jpeg" /></p>
+          <p align="center"><img width="65%" src="./../assets/arangopipe.jpeg" /></p>
         </div>
     </td>
     <td>
@@ -47,7 +47,7 @@
 <table>
  <tr>
     <td width="33%"><b style="font-size:20px">Graph Embeddings Service</b></td>
-    <td width="33%"><b style="font-size:20px">NVidia Triton Support</b></td>
+    <td width="33%"><b style="font-size:20px">NVidia Triton Inference Server Support</b></td>
     <td width="33%"><b style="font-size:20px">Pregel</b></td>
  </tr>
  <tr>
@@ -55,21 +55,21 @@
         <div>
           The <a href="https://github.com/arangoml/embeddings-service">Embeddings Service</a> is a <a href="https://www.arangodb.com/docs/stable/foxx.html">Foxx</a> tool that enables the generation of embeddings.
           <br></br>
-          <p align="center"><img height="190" src="https://www.arangodb.com/wp-content/uploads/2016/12/ArangoDB-Foxx-logo.png" /></p>
+          <p align="center"><img height="150vh" src="https://www.arangodb.com/wp-content/uploads/2016/12/ArangoDB-Foxx-logo.png" /></p>
         </div>
     </td>
     <td>
         <div>
-          ArangoDB partnered with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient. Get started <a href="https://github.com/arangoml/embeddings-compute">here</a>.
+          ArangoDB partnered with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient using Nvidia's Triton Inference Server. Get started <a href="https://github.com/arangoml/embeddings-compute">here</a>.
           <br></br>
-          <p align="center"><img height="165" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
+          <p align="center"><img height="110vh" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
         </div>
     </td>
     <td>
         <div>
           ArangoDB has built-in <a href="https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/">Pregel</a> support that allows for analytical processing directly on graphs stored in ArangoDB. Get started <a href="https://www.arangodb.com/docs/stable/graphs-pregel.html">here</a>.
          <br></br>
-         <p align="center"><img height="170" src="../assets/pregel.png" /></p>
+         <p align="center"><img height="130vh" src="../assets/pregel.png" /></p>
         </div>
      </td>
  </tr>
