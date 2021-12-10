@@ -23,7 +23,7 @@
         <div>
           <a href="https://github.com/arangoml/arangopipe">ArangoML Pipeline</a> is a common and extensible Metadata Layer for Machine Learning Pipelines which allows Data Scientists and DataOps to manage all information related to their ML pipeline in one place. Get started in <a href="https://colab.research.google.com/github/arangoml/arangopipe/blob/master/examples/Arangopipe_Feature_Examples.ipynb">Colab</a>.
           <br></br>
-          <p align="center"><img width="65%" src="/assets/arangopipe.jpeg" /></p>
+          <p align="center"><img width="65%" src="https://raw.githubusercontent.com/arangoml/arangopipe/master/assets/logos/ArangoML_Pipleline_Overview.jpg" /></p>
         </div>
     </td>
     <td>
@@ -66,7 +66,7 @@
         <div>
           ArangoDB has built-in <a href="https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/">Pregel</a> support that allows for analytical processing directly on graphs stored in ArangoDB. Get started <a href="https://www.arangodb.com/docs/stable/graphs-pregel.html">here</a>.
          <br></br>
-         <p align="center"><img height="130vh" src="/assets/pregel.png" /></p>
+         <p align="center"><img height="135vh" src="https://cdn-icons-png.flaticon.com/512/1555/1555855.png" /></p>
         </div>
      </td>
  </tr>
