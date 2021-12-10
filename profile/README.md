@@ -47,7 +47,7 @@
 <table>
  <tr>
     <td width="33%"><b style="font-size:20px">Graph Embeddings Service</b></td>
-    <td width="33%"><b style="font-size:20px">NVidia Triton</b></td>
+    <td width="33%"><b style="font-size:20px">NVidia Triton Support</b></td>
     <td width="33%"><b style="font-size:20px">Pregel</b></td>
  </tr>
  <tr>
