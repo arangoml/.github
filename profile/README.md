@@ -75,4 +75,4 @@
 ---
 <br/>
 
-**Learn more from our resources at [arangodb.com/learn](https://www.arangodb.com/learn/)**
+**Learn more from our resources at [arangodb.com/graph-analytics-at-enterprise-scale](https://www.arangodb.com/graph-analytics-at-enterprise-scale/)**
