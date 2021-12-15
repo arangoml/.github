@@ -6,7 +6,7 @@
 
 <!-- <img height="210" align="right" src="/assets/arangoml.jpeg" />
  -->
-### ArangoDB as the foundation for Graph ML
+### [ArangoDB](https://www.arangodb.com/) as the foundation for Graph ML
 * **Scalable**: Designed from ground up to scale Enterprise use cases 
 * **Simple** Ingestion: Easy integration in existing data infrastructure + connectors to all leading data processing and data ecosystems
 * **Open Source**: Extensibility, Community, especially large community maintained library
