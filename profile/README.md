@@ -16,7 +16,7 @@
 <table>
  <tr>
     <td align="center" width="50%"><b style="font-size:20px">ArangoPipe</b></td>
-    <td align="center" width="50%"><b style="font-size:20px">NetworkX Support</b></td>
+    <td align="center" width="50%"><b style="font-size:20px">NetworkX & DGL Support</b></td>
  </tr>
  <tr>
     <td>
@@ -28,7 +28,7 @@
     </td>
     <td>
         <div>
-          The <a href="https://github.com/arangoml/networkx-adapter">ArangoDB-Networkx Adapter</a> exports Graphs from ArangoDB into NetworkX, the swiss army knife for graph analysis with python, and vice-versa. Developers can use this adapter to extend ArangoDB graph compatibility to <a href="https://www.dgl.ai/">DGL</a>, <a href="https://networkit.github.io/">NetworkKit</a>, and <a href="https://www.pyg.org/">PyTorch Geometric</a>, via their own NetworkX support. Get started in <a href="https://colab.research.google.com/github/arangoml/networkx-adapter/blob/master/examples/ArangoDB_NetworkxAdapter.ipynb">Colab</a>.
+          The <a href="https://github.com/arangoml/networkx-adapter">ArangoDB-Networkx Adapter</a> & <a href="https://github.com/arangoml/dgl-adapter">ArangoDB-DGL Adapter</a> allow developers to export their ArangoDB graphs to NetworkX/DGL & vice-versa. Developers can also use these adapters to extend ArangoDB graph compatibility to <a href="https://networkit.github.io/">NetworkKit</a> and <a href="https://www.pyg.org/">PyTorch Geometric</a>, via their existing NetworkX/DGL support.
         </div>
         <br/>
         <p style="display: flex" align="center">
