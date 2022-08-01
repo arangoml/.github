@@ -16,7 +16,7 @@
 <table>
  <tr>
     <td align="center" width="50%"><b style="font-size:20px">ArangoPipe</b></td>
-    <td align="center" width="50%"><b style="font-size:20px">NetworkX, DGL & cuGraph Support</b></td>
+    <td align="center" width="50%"><b style="font-size:20px">NetworkX, cuGraph, PyG & DGL Support</b></td>
  </tr>
  <tr>
     <td>
@@ -28,14 +28,14 @@
     </td>
     <td>
         <div>
-          The <a href="https://github.com/arangoml/networkx-adapter">ArangoDB-Networkx Adapter</a>, <a href="https://github.com/arangoml/dgl-adapter">ArangoDB-DGL Adapter</a>, and <a href="https://github.com/arangoml/cugraph-adapter">ArangoDB-cuGraph Adapter</a> allow developers to export their ArangoDB graphs to NetworkX/DGL/cuGraph & vice-versa. Developers can also use these adapters to extend ArangoDB graph compatibility to <a href="https://www.pyg.org/">PyTorch Geometric</a> and <a href="https://networkit.github.io/">NetworkKit</a>.
+          The <a href="https://github.com/arangoml/networkx-adapter">ArangoDB-Networkx Adapter</a>, <a href="https://github.com/arangoml/cugraph-adapter">ArangoDB-cuGraph Adapter</a>, <a href="https://github.com/arangoml/pyg-adapter">ArangoDB-PyG Adapter</a>, and <a href="https://github.com/arangoml/dgl-adapter">ArangoDB-DGL Adapter</a> allow developers to export their ArangoDB graphs to NetworkX/cuGraph/PyG/DGL & vice-versa.
         </div>
         <br/>
         <p style="display: flex" align="center">
-          <img width="20%" src="https://avatars.githubusercontent.com/u/388785?s=280&v=4"/>
-          <img width="20%" src="https://avatars.githubusercontent.com/u/11508361?s=200&v=4"/>
-          <img width="20%" src="https://avatars.githubusercontent.com/u/43887749?s=200&v=4"/>
-          <img width="20%" src="https://avatars.githubusercontent.com/u/89995122?s=200&v=4"/>
+          <a href="https://github.com/arangoml/networkx-adapter"><img width="20%" src="https://avatars.githubusercontent.com/u/388785?s=280&v=4"/></a>
+          <a href="https://github.com/arangoml/cugraph-adapter"><img width="20%" src="https://avatars.githubusercontent.com/u/43887749?s=200&v=4"/></a>
+          <a href="https://github.com/arangoml/pyg-adapter"><img width="20%" src="https://avatars.githubusercontent.com/u/89995122?s=200&v=4"/></a>
+          <a href="https://github.com/arangoml/dgl-adapter"><img width="20%" src="https://avatars.githubusercontent.com/u/11508361?s=200&v=4"/></a>
         </p>
     </td>
  </tr>
