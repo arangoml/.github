@@ -52,8 +52,8 @@
           <a href="https://github.com/arangoml/fastgraphml">FastGraphML</a> is a low-code python package that enables the generation of graph embeddings with PyG.
           <br></br>
           <p style="display: flex" align="center">
-            <img width="50%" src="https://avatars.githubusercontent.com/u/5547849?s=200&v=4"/>
-            <img width="50%" src="https://avatars.githubusercontent.com/u/89995122?s=200&v=4"/>
+            <img width="30%" src="https://avatars.githubusercontent.com/u/5547849?s=200&v=4"/>
+            <img width="30%" src="https://avatars.githubusercontent.com/u/89995122?s=200&v=4"/>
           </p>
         </div>
     </td>
