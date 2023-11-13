@@ -15,13 +15,13 @@
 ---
 <table>
  <tr>
-    <td align="center" width="50%"><b style="font-size:20px">ArangoPipe</b></td>
+    <td align="center" width="50%"><b style="font-size:20px">ArangoGraphML</b></td>
     <td align="center" width="50%"><b style="font-size:20px">NetworkX, cuGraph, PyG & DGL Support</b></td>
  </tr>
  <tr>
     <td>
         <div>
-          <a href="https://github.com/arangoml/arangopipe">ArangoML Pipeline</a> is a common and extensible Metadata Layer for Machine Learning Pipelines which allows Data Scientists and DataOps to manage all information related to their ML pipeline in one place. Get started in <a href="https://colab.research.google.com/github/arangoml/arangopipe/blob/master/examples/Arangopipe_Feature_Examples.ipynb">Colab</a>.
+          <a href="https://docs.arangodb.com/3.11/data-science/graphml/#arangographml">ArangoGraphML</a> provides enterprise-ready graph-powered machine learning as a cloud service via Jupyter Notebooks that run on the <a href="https://cloud.arangodb.com/"> ArangoGraph Insights Platform</a>.
           <br></br>
           <p align="center"><img width="65%" src="https://raw.githubusercontent.com/arangoml/arangopipe/master/assets/logos/ArangoML_Pipleline_Overview.jpg" /></p>
         </div>
@@ -43,23 +43,18 @@
 
 <table>
  <tr>
-    <td align="center" width="33%"><b style="font-size:20px">Graph Embeddings Service</b></td>
-    <td align="center" width="33%"><b style="font-size:20px">NVidia Triton Inference Server Support</b></td>
+    <td align="center" width="33%"><b style="font-size:20px">FastGraphML</b></td>
     <td align="center" width="33%"><b style="font-size:20px">Pregel</b></td>
  </tr>
  <tr>
     <td>
         <div>
-          The <a href="https://github.com/arangoml/embeddings-service">Embeddings Service</a> is a <a href="https://www.arangodb.com/docs/stable/foxx.html">Foxx</a> tool that enables the generation of embeddings.
+          <a href="https://github.com/arangoml/fastgraphml">FastGraphML</a> is a low-code python package that enables the generation of graph embeddings with PyG.
           <br></br>
-          <p align="center"><img height="150vh" src="https://www.arangodb.com/wp-content/uploads/2016/12/ArangoDB-Foxx-logo.png" /></p>
-        </div>
-    </td>
-    <td>
-        <div>
-          ArangoDB partnered with Nvidia to make deploying models within the ArangoDB ecosystem fast and efficient using Nvidia's Triton Inference Server. Get started <a href="https://github.com/arangoml/embeddings-compute">here</a>.
-          <br></br>
-          <p align="center"><img height="110vh" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" /></p>
+          <p style="display: flex" align="center">
+            <img width="30%" src="https://avatars.githubusercontent.com/u/5547849?s=200&v=4"/>
+            <img width="30%" src="https://avatars.githubusercontent.com/u/89995122?s=200&v=4"/>
+          </p>
         </div>
     </td>
     <td>
