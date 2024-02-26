@@ -28,7 +28,7 @@
     </td>
     <td>
         <div>
-          The <a href="https://github.com/arangoml/networkx-adapter">ArangoDB-Networkx Adapter</a>, <a href="https://github.com/arangoml/cugraph-adapter">ArangoDB-cuGraph Adapter</a>, <a href="https://github.com/arangoml/pyg-adapter">ArangoDB-PyG Adapter</a>, and <a href="https://github.com/arangoml/dgl-adapter">ArangoDB-DGL Adapter</a> allow developers to export their ArangoDB graphs to NetworkX/cuGraph/PyG/DGL & vice-versa.
+          The <a href="https://github.com/arangoml/networkx-adapter">Networkx Adapter</a>, <a href="https://github.com/arangoml/cugraph-adapter">cuGraph Adapter</a>, <a href="https://github.com/arangoml/pyg-adapter">PyG Adapter</a>, and <a href="https://github.com/arangoml/dgl-adapter">DGL Adapter</a> allow developers to export their ArangoDB graphs to NetworkX/cuGraph/PyG/DGL & vice-versa.
         </div>
         <br/>
         <p style="display: flex" align="center">
