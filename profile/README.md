@@ -1,8 +1,6 @@
 ![](/assets/logo.png)
 
-# Graph ML is the future of data analytics
-
-[By 2025, graph technologies will be used in most of data and analytics innovations.](https://www.techrepublic.com/article/gartner-top-10-data-and-analytics-technology-trends-for-2021/)
+# Graph is the future of data analytics
 
 <!-- <img height="210" align="right" src="/assets/arangoml.jpeg" />
  -->
